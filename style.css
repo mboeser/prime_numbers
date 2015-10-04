@@ -1,0 +1,26 @@
+*, body, input {
+    background-color: black;
+    color: #00FF00;
+    font-family:"Lucida Console", Courier, monospace;
+    font-size: 20px;
+    font-style: none;
+    border: none;
+
+}
+p, span {
+    color: #00FF00;
+    font-family:"Lucida Console", Courier, monospace;
+    font-size: 20px;
+    font-style: none;
+}
+
+input:focus, textarea:focus {
+  outline      : none;
+}
+
+form {
+	display: inline-block;
+	font-family:"Lucida Console", Courier, monospace;
+    font-size: 20px;
+    border: none;
+}
